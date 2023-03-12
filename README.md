@@ -8,7 +8,7 @@ beautifulsoup ,time, json,random, csv re,request
 -	Choix des projets intéressant 
 # Résultat 1
 -	Générer un tableau CSV avec :
-Nom du projet, prix NFT, user Name twitter, nombre de followers, prix, quantité 
+Nom du projet, prix NFT,date , user Name twitter, nombre de followers, prix, quantité 
 # Résultat 2 
 -	Alerte par message des projets dont les prix sont inférieurs à notre seuil 
 Maximum.

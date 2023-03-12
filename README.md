@@ -1,7 +1,7 @@
 # NFT-Project
 L’objectif de notre projet est de trouver des projets rentables à travers notre critères de sélection "nombre de followers".
 # Module installé:  
-beautifulsoup ,time, json,random, csv re,request,
+beautifulsoup ,time, json,random, csv re,request
 # Structure 
 -	L’extraction des différents projets prévus sur le site 
 -	Choix des projets intéressant 
